@@ -1,26 +1,28 @@
 ---
 title: "Markdown"
-date: "2022-09-02T18:27:00.000Z"
-lastmod: "2024-12-20T17:56:00.000Z"
+date: "2025-05-09T04:03:00.000Z"
+lastmod: "2025-05-09T04:04:00.000Z"
 draft: false
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
 authors:
-  - "PCloud"
+  - "moseoh"
 custom-front-matter: "hello"
-tags: []
+tags:
+  - "installation"
+  - "configuration"
 categories: []
 NOTION_METADATA:
   object: "page"
-  id: "33dbd8d9-65f7-4930-a804-b8b50f375cbb"
-  created_time: "2022-09-02T18:27:00.000Z"
-  last_edited_time: "2024-12-20T17:56:00.000Z"
+  id: "1ee184a4-04c6-816d-b25c-ee03e5d76b2b"
+  created_time: "2025-05-09T04:03:00.000Z"
+  last_edited_time: "2025-05-09T04:04:00.000Z"
   created_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "16e7e155-5fe7-413a-92a2-0086d8bd6532"
   last_edited_by:
     object: "user"
-    id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
+    id: "16e7e155-5fe7-413a-92a2-0086d8bd6532"
   cover:
     type: "external"
     external:
@@ -28,7 +30,7 @@ NOTION_METADATA:
   icon: null
   parent:
     type: "database_id"
-    database_id: "b7b1816c-05ec-4643-91c8-c111fa242985"
+    database_id: "1ee184a4-04c6-813b-af3a-cfae199355b7"
   archived: false
   in_trash: false
   properties:
@@ -46,11 +48,14 @@ NOTION_METADATA:
       people:
         - object: "user"
           id: "657d1c71-eca5-475d-b9d3-3669efd38ab9"
-          name: "PCloud"
-          avatar_url: "https://s3-us-west-2.amazonaws.com/public.notion-static.com/1a0f7d\
-            04-9a04-49c9-9ac2-670b2bf4e33c/IMG_0309.jpg"
+        - object: "user"
+          id: "16e7e155-5fe7-413a-92a2-0086d8bd6532"
+          name: "moseoh"
+          avatar_url: "https://s3-us-west-2.amazonaws.com/public.notion-static.com/08e433\
+            b5-98b9-48d5-921c-bbb549143ce9/my-notion-face-transparent.png"
           type: "person"
-          person: {}
+          person:
+            email: "azqazq195@gmail.com"
     custom-front-matter:
       id: "c~kA"
       type: "rich_text"
@@ -71,7 +76,13 @@ NOTION_METADATA:
     tags:
       id: "jw%7CC"
       type: "multi_select"
-      multi_select: []
+      multi_select:
+        - id: "143f5c06-8cab-4718-b349-5b894d829983"
+          name: "installation"
+          color: "green"
+        - id: "b1db1d47-c51c-4bbf-b482-b7f31dd3ff0f"
+          name: "configuration"
+          color: "green"
     categories:
       id: "nbY%3F"
       type: "multi_select"
@@ -79,7 +90,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2024-12-20T17:56:00.000Z"
+      last_edited_time: "2025-05-09T04:04:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -101,8 +112,8 @@ NOTION_METADATA:
             color: "default"
           plain_text: "Markdown"
           href: null
-  url: "https://www.notion.so/Markdown-33dbd8d965f74930a804b8b50f375cbb"
-  public_url: "https://pcloud.notion.site/Markdown-33dbd8d965f74930a804b8b50f375cbb"
+  url: "https://www.notion.so/Markdown-1ee184a404c6816db25cee03e5d76b2b"
+  public_url: "https://moseoh.notion.site/Markdown-1ee184a404c6816db25cee03e5d76b2b"
 MANAGED_BY_NOTION_HUGO: true
 
 ---
@@ -213,10 +224,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sagittis commodo mau
 @2022-09-03T00:00:00.000+01:00 -> 2022-09-21T02:00:00.000+01:00 
 
 
-Hello @PCloud!
+Hello !
 
 
-[Markdown]({{% relref "Markdown-33dbd8d965f74930a804b8b50f375cbb.md" %}}) 
+[Markdown]({{% relref "Markdown-1ee184a404c6816db25cee03e5d76b2b.md" %}}) 
 
 
 ---
@@ -228,7 +239,7 @@ Hello @PCloud!
 ### Internal
 
 
-![](https://notion-hugo.pages.dev/api?block_id=8ea45705-f812-4bdc-a9b3-079730199436)
+![](https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8191-85b8-d211deea3915)
 
 
 ### External
@@ -256,10 +267,10 @@ File
 
 
 <video controls style="height:auto;width:100%;">
-  <source src="https://notion-hugo.pages.dev/api?block_id=666aae5b-9e73-44b4-b2f0-a4933e16bc88">
+  <source src="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec">
   <p>
     Your browser does not support HTML5 video. Here is a
-    <a href="https://notion-hugo.pages.dev/api?block_id=666aae5b-9e73-44b4-b2f0-a4933e16bc88" download="https://notion-hugo.pages.dev/api?block_id=666aae5b-9e73-44b4-b2f0-a4933e16bc88">link to the video</a> instead.
+    <a href="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec" download="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec">link to the video</a> instead.
   </p>
 </video>
 
@@ -276,7 +287,7 @@ YouTube
 ## Audio
 
 
-<audio controls src="https://notion-hugo.pages.dev/api?block_id=1f7cdc13-5883-4349-b6c2-a9310f9a589e"></audio>
+<audio controls src="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-81e0-94c5-fec18049f2b7"></audio>
 
 
 ---
@@ -300,13 +311,13 @@ int main() {
 ## PDF
 
 
-<embed src="https://notion-hugo.pages.dev/api?block_id=3cb3a09f-e4dd-4ea3-b93d-40e497ace6d4" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
+<embed src="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-81b3-885a-d826df9861d1" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
 
 
 ## File
 
 
-[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=72338466-bf1f-4670-926b-4a0796a7b4df)
+[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-81f4-b5e2-d4a1051a1959)
 
 
 ---
