@@ -1,7 +1,7 @@
 ---
 title: "Markdown"
 date: "2025-05-09T04:03:00.000Z"
-lastmod: "2025-05-09T04:04:00.000Z"
+lastmod: "2025-05-09T04:26:00.000Z"
 draft: false
 featuredImage: "https://www.notion.so/images/page-cover/woodcuts_1.jpg"
 series: []
@@ -16,7 +16,7 @@ NOTION_METADATA:
   object: "page"
   id: "1ee184a4-04c6-816d-b25c-ee03e5d76b2b"
   created_time: "2025-05-09T04:03:00.000Z"
-  last_edited_time: "2025-05-09T04:04:00.000Z"
+  last_edited_time: "2025-05-09T04:26:00.000Z"
   created_by:
     object: "user"
     id: "16e7e155-5fe7-413a-92a2-0086d8bd6532"
@@ -90,7 +90,7 @@ NOTION_METADATA:
     Last edited time:
       id: "vbGE"
       type: "last_edited_time"
-      last_edited_time: "2025-05-09T04:04:00.000Z"
+      last_edited_time: "2025-05-09T04:26:00.000Z"
     summary:
       id: "x%3AlD"
       type: "rich_text"
@@ -233,13 +233,16 @@ Hello !
 ---
 
 
+test
+
+
 ## Image
 
 
 ### Internal
 
 
-![](https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8191-85b8-d211deea3915)
+![](https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-8191-85b8-d211deea3915)
 
 
 ### External
@@ -267,10 +270,10 @@ File
 
 
 <video controls style="height:auto;width:100%;">
-  <source src="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec">
+  <source src="https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec">
   <p>
     Your browser does not support HTML5 video. Here is a
-    <a href="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec" download="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec">link to the video</a> instead.
+    <a href="https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec" download="https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-8184-81e8-eaeef44736ec">link to the video</a> instead.
   </p>
 </video>
 
@@ -287,7 +290,7 @@ YouTube
 ## Audio
 
 
-<audio controls src="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-81e0-94c5-fec18049f2b7"></audio>
+<audio controls src="https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-81e0-94c5-fec18049f2b7"></audio>
 
 
 ---
@@ -311,13 +314,13 @@ int main() {
 ## PDF
 
 
-<embed src="https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-81b3-885a-d826df9861d1" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
+<embed src="https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-81b3-885a-d826df9861d1" type="application/pdf" style="width: 100%;aspect-ratio: 2/3;height: auto;" />
 
 
 ## File
 
 
-[Living-Guide.pdf](https://notion-hugo.pages.dev/api?block_id=1ee184a4-04c6-81f4-b5e2-d4a1051a1959)
+[Living-Guide.pdf](https://blog-notion.pages.dev/api?block_id=1ee184a4-04c6-81f4-b5e2-d4a1051a1959)
 
 
 ---
